@@ -1,0 +1,36 @@
+27-3
+
+A partially completed version of the project already exists. You are now asked to .. finish it off. 
+
+The design has already been signed off and so you must not alter the appearance of the system. 
+
+All of the code already present is relevant and so you must make sure that you understand 
+the methods deployed such as:
+        
+        button attributes to open modals, 
+        classes to conditionally hide elements depending on device size, 
+        modal show events ("show.bs.modal"), 
+        form submit event handling 
+        frequent calls to the database to ensure that the app is using the most up to data values.
+
+
+Study it carefully and then provide the missing functionality according to the methods of 
+deployment that are already in place.
+
+See: Company Directory (codepen.io)
+
+
+Find a link to the SQL and sample PHP in the zip file below. The PHP routines can be used in your 
+solution but you will also have to develop others to complete your development. Please do not 
+change the structure or indexes of any of the tables and when designing the workflow bear in 
+mind the following: 
+
+    The UI must allow for maintenance of the all of the tables in the database, 
+    protect its integrity and not allow the user to compromise it by deleting records with dependencies
+
+    The model supports only one location per department
+    
+    This is a server based solution that can be accessed by multiple users at any time.
+    
+companydirectory.zip
+
